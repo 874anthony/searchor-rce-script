@@ -14,7 +14,7 @@ ITALIC_GRAY="\e[3;90m"
 
 ENDCOLOR="\e[0m"
 
-# Exploit Title: Searchor 1.1 - Remote Code Execution
+# Exploit Title: Searchor 2.4.0 - Remote Code Execution
 
 help_panel() {
     echo -e "\n${BOLD_RED}[!] Usage: searchor-rce.sh -u <target-url> -h <host> -p <port>${ENDCOLOR}"
